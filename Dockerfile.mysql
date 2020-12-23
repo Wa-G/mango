@@ -1,0 +1,11 @@
+
+
+
+##### mysqdl Dockerfile
+FROM mysql
+
+ENV MYSQL_ROOT_PASSWORD=password123
+
+CMD system start mysql
+
+
